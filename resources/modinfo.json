@@ -1,0 +1,9 @@
+{
+    "type": "code",
+    "side": "server",
+    "modid": "spawnconditions",
+    "name": "Spawn Conditions",
+    "description": "Allows to configure spawn conditions of every vanilla and modded creature",
+    "authors": ["Craluminum2413"],
+    "version": "1.0.0"
+}
